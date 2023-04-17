@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-📊 Data-focused business intelligence - Python, R, SQL/TSQL, 
+📊 Data-focused business intelligence
 
 🎨 Eye for design
 
