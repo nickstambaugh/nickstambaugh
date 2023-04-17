@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
   </a>
   <a href="https://public.tableau.com/app/profile/nick4514">
-    <img src="https://img.shields.io/badge/tableau-grey?style=for-the-badge&logo=tableau&logoColor=skyblue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
   <a>
