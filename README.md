@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  
+
 # Hello There, I'm Nick <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlOGYyNDBkN2JmYjM3NDdjNzk1NjdkMTA4NzM1ZDJkNTUwMGVlZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"/>
 
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
