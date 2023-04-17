@@ -9,9 +9,15 @@
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@nick-stambaugh">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/nick4514">
+    <img src="https://img.shields.io/badge/tableau-grey?style=for-the-badge&logo=tableau&logoColor=skyblue" alt="LinkedIn Badge"/>
+  </a>
+  <br>
+  <a>
   <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-square&color=blue" alt=""/>
+  </a>
   
 ## About Me
 👨🏻‍💻 I'm a BI Analyst and Web Developer.
