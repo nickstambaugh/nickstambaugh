@@ -13,11 +13,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=transparent&fire=EB5454)](https://git.io/streak-stats)
 
 ## Skills
-📊 Data-focused business intelligence
+📊 Data-focused business intelligence (SQL, Python, R)
 
 🎨 Eye for design
 
-### Favorite Libraries
+🕸 Web development
+
+🧑 Salesforce Administration
+
+## Personal Favorite Libraries
 💻 React, JQuery, Flask, Pandas, Scikit-learn
 
 📈 D3, Seaborn, Shiny, Matplotlib, ggplot2
