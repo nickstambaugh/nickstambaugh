@@ -36,11 +36,7 @@
 
 🧑 Salesforce Administration
 
-## Personal Favorite Libraries
-💻 React, JQuery, Flask, Pandas, Scikit-learn
-
-📈 D3, Seaborn, Shiny, Matplotlib, ggplot2
-
+## Libraries I've Completed Work In
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
