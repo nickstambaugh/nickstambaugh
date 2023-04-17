@@ -2,8 +2,11 @@
 
 ## About Me
 👨🏻‍💻 I'm a BI Analyst and Web Developer.
+
 🌍 I'm passionate about creating visually appealing and user-friendly dashboards and web applications.
+
 🌱 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.
+
 💼 I'm currently seeking new opportunities to apply my knowledge and expertise in the BI and web development space.
 
 ## Stats
@@ -11,8 +14,12 @@
 
 ## Skills
 📊 Data-focused business intelligence
+
 🎨 Eye for design
+
+### Favorite Libraries
 💻 React, JQuery, Flask, Pandas, Scikit-learn
+
 📈 D3, Seaborn, Shiny, Matplotlib, ggplot2
 
 ## What I Do
