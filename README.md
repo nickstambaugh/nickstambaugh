@@ -28,7 +28,7 @@
 
 💼 I'm currently seeking new opportunities to apply my knowledge and expertise in the BI and web development space.
  
-✏️ I enjoy documenting my projects to gain a deeper understanding of my work.
+✏️ I enjoy documenting my projects on Medium to gain a deeper understanding of my work.
   
 📝 Focusing on learning JavaScript and Python right now.
 
