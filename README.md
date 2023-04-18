@@ -42,7 +42,7 @@
 
 🕸 Web development
 
-🧑 Salesforce Administration
+🛡️ Salesforce Administration
 
 ## Favorite Tech
 <div>
