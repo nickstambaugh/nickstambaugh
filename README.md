@@ -71,5 +71,3 @@ I excel at merging my expertise in data-focused business intelligence with my ey
 
 ## Contact Me
 📧 nastambaugh@gmail.com
-
-📱 616-422-0848
