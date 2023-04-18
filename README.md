@@ -27,6 +27,8 @@
 🌱 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.
 
 💼 I'm currently seeking new opportunities to apply my knowledge and expertise in the BI and web development space.
+ 
+✏️ I enjoy documenting my projects to gain a deeper understanding of my work.
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=transparent&fire=EB5454)](https://git.io/streak-stats)
