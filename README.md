@@ -67,7 +67,7 @@
 
   
 ## What I Do
-I excel at merging my expertise in data-focused business intelligence with my eye for design, enabling me to create visually compelling and user-friendly dashboards and web applications that effectively communicate complex information.
+I excel at merging my expertise in data-focused business intelligence with my eye for design, enabling me to create visually compelling and user-friendly dashboards and web applications that effectively communicate complex information. This GitHub is an absolute mess of my various creations.
 
 ## Contact Me
 📧 nastambaugh@gmail.com
