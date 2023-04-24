@@ -20,7 +20,7 @@
   </a>
   
 ## About Me
-👨🏻‍💻 I'm a BI Analyst and Web Developer.
+👨🏻‍💻 I'm a BI Analyst and amateur Web Developer.
 
 🌍 I'm passionate about creating visually appealing and user-friendly dashboards and web applications.
 
