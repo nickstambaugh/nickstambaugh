@@ -33,7 +33,7 @@
 📝 Focusing on learning JavaScript and Python right now.
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=transparent&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=gruvbox&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&count_private=true&langs_count=10&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
   
