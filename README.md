@@ -30,7 +30,7 @@
  
 ✏️ I enjoy documenting my projects on Medium to gain a deeper understanding of my work.
   
-📝 Focusing on learning JavaScript and Python right now.
+📝 Focusing on learning JavaScript, Python, and PHP right now.
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=gruvbox&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
