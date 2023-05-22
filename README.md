@@ -36,7 +36,9 @@
 📝 Focusing on learning JavaScript, Python, and PHP right now.
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=gruvbox&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
+     
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicholasStambaugh&theme=tokyonight&count_private=true&show_icons=true&langs_count=10)](https://github.com/NicholasStambaugh/github-readme-stats)      
   
 ## Skills
 📊 Data-focused business intelligence
