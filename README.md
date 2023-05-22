@@ -15,8 +15,11 @@
   <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   </a>
   <br>
+  <br>
+    <a href="https://nickstambaugh.com">
+  <img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>
   <a>
-  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=blue&" alt=""/>
   </a>
   
 ## About Me
