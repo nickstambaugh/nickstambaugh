@@ -23,7 +23,7 @@
   </a>
   
 ## About Me
-👨🏻‍💻 I'm a professional BI Analyst and Web Developer.
+👨🏻‍💻 I'm a professional BI & Web Developer.
 
 🌍 I'm passionate about creating visually appealing and user-friendly dashboards and web applications.
 
