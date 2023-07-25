@@ -24,12 +24,6 @@
   
 ## About Me
 👨🏻‍💻 I'm a professional BI & Web Developer.
-
-🌍 I'm passionate about creating visually appealing and user-friendly dashboards and web applications.
-
-🌱 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.
- 
-✏️ I enjoy documenting my projects on Medium and Github to gain a deeper understanding of my work.
   
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
 
