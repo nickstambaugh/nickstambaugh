@@ -37,9 +37,9 @@
 
 🎨 Eye for design
 
-🕸 Web development
+🕸 Web/App development
 
-🛡️ Salesforce Administration
+🛡️ Salesforce/Qlik Sense Administration
 
 ## Favorite Tech
 <div>
