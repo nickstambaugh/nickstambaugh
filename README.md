@@ -1,5 +1,4 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
   
 # Hello There, I'm Nick <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlOGYyNDBkN2JmYjM3NDdjNzk1NjdkMTA4NzM1ZDJkNTUwMGVlZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"/>
   <a>
@@ -32,6 +31,14 @@
 👨🏻‍💻 I'm a professional Web & BI Developer.
   
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
+### Skills
+📊 Data-focused business intelligence
+
+🎨 Eye for design
+
+🕸 Web/App development
+
+🛡️ Salesforce/Qlik Sense/SSMS Administration
 
 ## Stats
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
@@ -41,14 +48,6 @@
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 ## Working On Now
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=Sales-Indicator-TS&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
-## Skills
-📊 Data-focused business intelligence
-
-🎨 Eye for design
-
-🕸 Web/App development
-
-🛡️ Salesforce/Qlik Sense/SSMS Administration
 ### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
