@@ -1,6 +1,9 @@
 <div id="header" align="center">
 
 # Hello There, I'm Nick <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlOGYyNDBkN2JmYjM3NDdjNzk1NjdkMTA4NzM1ZDJkNTUwMGVlZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"/>
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=blue&" alt=""/>
+  </a>
 
   ## Contact Me
 📧 nastambaugh@gmail.com 
@@ -21,9 +24,6 @@
   <br>
     <a href="https://nickstambaugh.com">
   <img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>
-  <a>
-  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=blue&" alt=""/>
-  </a>
 
   
 ## About Me 
