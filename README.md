@@ -67,3 +67,19 @@
 📧 nastambaugh@gmail.com 
 
 📱 616-422-0848
+
+# ASCII
+       _   _ _      _
+      | \ | (_) ___| | __
+      |  \| | |/ __| |/ /
+      | |\  | | (__|   <
+      |_| \_|_|\___|_|\_\
+      
+       ____  _                        _                       _
+      / ___|| |_ __ _ _ __ ___   __ _| |__   __ _ _   _  __ _| |__
+      \___ \| __/ _` | '_ ` _ \ / _` | '_ \ / _` | | | |/ _` | '_ \
+       ___) | || (_| | | | | | | (_| | |_) | (_| | |_| | (_| | | | |
+      |____/ \__\__,_|_| |_| |_|\__,_|_.__/ \__,_|\__,_|\__, |_| |_|
+
+### Generated Using
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=pyascii&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
