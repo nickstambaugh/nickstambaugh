@@ -6,8 +6,6 @@
 📧 nastambaugh@gmail.com 
 
 📱 616-422-0848
-
-  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
   
 <div id="badges">
    <a href="https://www.linkedin.com/in/nick-stambaugh-694241139/L">
@@ -26,11 +24,14 @@
   <a>
   <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=blue&" alt=""/>
   </a>
+
   
-## About Me
+## About Me 
 👨🏻‍💻 I'm a professional BI & Web Developer.
   
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
+
+<img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 
 ## Stats
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
