@@ -21,9 +21,11 @@
   <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   </a>
   <br>
-  <br>
-    <a href="https://nickstambaugh.com">
-  <img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>
+</div>
+
+#### Hire Me
+<a href="https://nickstambaugh.com">
+<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>
 
   
 ## About Me 
