@@ -1,5 +1,9 @@
 <div id="header" align="center">
 
+  ## Contact Me
+📧 nastambaugh@gmail.com 
+
+📱 616-422-0848
 # Hello There, I'm Nick <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlOGYyNDBkN2JmYjM3NDdjNzk1NjdkMTA4NzM1ZDJkNTUwMGVlZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"/>
 
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
@@ -64,11 +68,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
   </div>
-
-## Contact Me
-📧 nastambaugh@gmail.com 
-
-📱 616-422-0848
 
 # ASCII
      _   _ _      _
