@@ -28,7 +28,7 @@
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
 
 ## Stats
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
      
