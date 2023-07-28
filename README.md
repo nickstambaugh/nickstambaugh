@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=blue&" alt=""/>
   </a>
 
-  ## Contact Me
+  ### Contact Me
 📧 nastambaugh@gmail.com 
 
 📱 616-422-0848
@@ -25,27 +25,24 @@
 
 #### Hire Me
 <a href="https://nickstambaugh.com">
-<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>
+<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>  
 
-  
-## About Me 
+  ## About Me 
 👨🏻‍💻 I'm a professional Web & BI Developer.
   
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
 
 <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 
-## Stats
+### Stats
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
      
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
-
-# Working On Now
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=TS-React-Blocks&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
-  
-## Skills
+### Working On Now
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=TS-React-Blocks&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
+### Skills
 📊 Data-focused business intelligence
 
 🎨 Eye for design
@@ -53,8 +50,7 @@
 🕸 Web/App development
 
 🛡️ Salesforce/Qlik Sense/SSMS Administration
-
-## Favorite Tech
+### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
@@ -72,8 +68,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
   </div>
-
-# ASCII
+  
+### ASCII
 _   _ _      _
     | \ | (_) ___| | __
     |  \| | |/ __| |/ /
@@ -86,6 +82,6 @@ _   _ _      _
      ___) | || (_| | | | | | | (_| | |_) | (_| | |_| | (_| | | | |
     |____/ \__\__,_|_| |_| |_|\__,_|_.__/ \__,_|\__,_|\__, |_| |_|
                                                 |___/
-### Generated Using
+#### Generated Using
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=pyascii&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
