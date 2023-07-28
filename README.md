@@ -28,11 +28,12 @@
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
 
 ## Stats
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
      
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicholasStambaugh&theme=tokyonight&count_private=true&show_icons=true&langs_count=10)](https://github.com/NicholasStambaugh/github-readme-stats)
 
-[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=NicholasStambaugh&theme=dark)](https://github.com/KasRoudra/stats-card)
   
 ## Skills
 📊 Data-focused business intelligence
