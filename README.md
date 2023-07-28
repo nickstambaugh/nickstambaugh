@@ -80,7 +80,7 @@
     \___ \| __/ _` | '_ ` _ \ / _` | '_ \ / _` | | | |/ _` | '_ \
      ___) | || (_| | | | | | | (_| | |_) | (_| | |_| | (_| | | | |
     |____/ \__\__,_|_| |_| |_|\__,_|_.__/ \__,_|\__,_|\__, |_| |_|
-                                                      |___/
+                                                |___/
 
 ### Generated Using
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=pyascii&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
