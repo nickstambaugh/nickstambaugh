@@ -34,6 +34,8 @@
      
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
+# Working On Now
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=TS-React-Blocks&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
   
 ## Skills
 📊 Data-focused business intelligence
@@ -81,6 +83,6 @@
      ___) | || (_| | | | | | | (_| | |_) | (_| | |_| | (_| | | | |
     |____/ \__\__,_|_| |_| |_|\__,_|_.__/ \__,_|\__,_|\__, |_| |_|
                                                 |___/
-
 ### Generated Using
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=pyascii&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
+
