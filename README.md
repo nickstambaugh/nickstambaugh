@@ -29,7 +29,7 @@
 
   
 ## About Me 
-👨🏻‍💻 I'm a professional BI & Web Developer.
+👨🏻‍💻 I'm a professional Web & BI Developer.
   
 📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
 
@@ -52,7 +52,7 @@
 
 🕸 Web/App development
 
-🛡️ Salesforce/Qlik Sense Administration
+🛡️ Salesforce/Qlik Sense/SSMS Administration
 
 ## Favorite Tech
 <div>
