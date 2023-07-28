@@ -9,7 +9,7 @@
 📧 nastambaugh@gmail.com 
 
 📱 616-422-0848
-  
+  #### Socials
 <div id="badges">
    <a href="https://www.linkedin.com/in/nick-stambaugh-694241139/L">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
