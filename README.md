@@ -27,22 +27,7 @@
   <br>
 </div>
 
-#### Hire Me
-<a href="https://nickstambaugh.com">
-<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>  
-
   ## About Me 
-👨🏻‍💻 I'm a professional Web & BI Developer.
-  
-📝 Focusing on learning Qlik Sense, TypeScript, and SQL right now.
-### Skills
-📊 Data-focused business intelligence
-
-🎨 Eye for design
-
-🕸 Web/App development
-
-🛡️ Salesforce/Qlik Sense/SSMS Administration
 ### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -62,6 +47,25 @@
 </div>
   </div>
 
+ ### Favorite IDE
+ <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
+
+#### Hire Me
+<a href="https://nickstambaugh.com">
+<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> 
+
+#### Let's Game!
+  <a href="https://steamcommunity.com/id/NickStamb/">
+  <img src="https://img.shields.io/badge/Steam-002211?style=for-the-badge&logo=steam&logoColor=white" alt="Tableau"/>
+  </a> 
+
+#### Games I Love  
+ <img src="https://img.shields.io/badge/Counter_Strike-010001?style=for-the-badge&logo=counter-strike&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIFA-010001?style=for-the-badge&logo=fifa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Call_Of_Duty-010001?style=for-the-badge&logo=activision&logoColor=white"/>
+
 ## Stats
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
@@ -71,7 +75,7 @@
 ## Working On Now
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=Sales-Indicator-TS&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
   
-### ASCII
+### ASCII Art
      _   _ _      _      ____  _                  _                       _     
     | \ | (_) ___| | __ / ___|| |_ __ _ _ __ ___ | |__   __ _ _   _  __ _| |__
     |  \| | |/ __| |/ / \___ \| __/ _` | '_ ` _ \| '_ \ / _` | | | |/ _` | '_ \
@@ -81,4 +85,5 @@
 
 #### Generated Using
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=pyascii&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
+
 
