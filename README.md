@@ -6,9 +6,13 @@
   </a>
 
   ### Contact Me
-📧 nastambaugh@gmail.com 
+📧 nastambaugh@gmail.com <br><br>
+<a href="mailto:nastambaugh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 📱 616-422-0848
+
   #### Socials
 <div id="badges">
    <a href="https://www.linkedin.com/in/nick-stambaugh-694241139/L">
