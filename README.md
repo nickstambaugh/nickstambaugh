@@ -73,7 +73,7 @@
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 ## Working On Now
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=Sales-Indicator-TS&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=weatherpy&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
   
 ### ASCII Art
      _   _ _      _      ____  _                  _                       _     
