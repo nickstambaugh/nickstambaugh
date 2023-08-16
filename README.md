@@ -6,12 +6,11 @@
   </a>
 
   ### Contact Me
-📧 nastambaugh@gmail.com <br><br>
+📧 `nastambaugh@gmail.com` <br><br>
+📱 `616-422-0848`<br><br>
 <a href="mailto:nastambaugh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-📱 616-422-0848
 
   #### Socials
 <div id="badges">
