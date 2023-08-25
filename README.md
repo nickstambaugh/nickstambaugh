@@ -70,7 +70,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight&width=467&exclude_repo=SQL-Query-Notebook)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight&width=468&exclude_repo=SQL-Query-Notebook)](https://github.com/KasRoudra/github-stats-card)
 ## Working On Now
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=SQL-Query-Notebook&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
   
