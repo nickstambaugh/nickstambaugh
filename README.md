@@ -55,12 +55,11 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://img.shields.io/badge/Call_Of_Duty-010001?style=for-the-badge&logo=activision&logoColor=white"/>
 
 ## Stats
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=NicholasStambaugh&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats) <br><br>
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight&width=468&exclude_repo=SQL-Query-Notebook)](https://github.com/KasRoudra/github-stats-card)
 ## Working On Now
+
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=SalesforceReportsConnector&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
   
 ### ASCII Art
