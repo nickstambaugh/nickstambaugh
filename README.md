@@ -1,30 +1,16 @@
 <div id="header" align="center">
   
-# Hello There, I'm Nick <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlOGYyNDBkN2JmYjM3NDdjNzk1NjdkMTA4NzM1ZDJkNTUwMGVlZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"/>
-  <a>
-  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=blue&" alt=""/>
-  </a>
+<!-- Your title -->
+## Hi, I'm Nick Stambaugh, a Developer 🚀 from Michigan.
 
-  ### Contact Me
-📧 `nastambaugh@gmail.com` <br><br>
-📱 `616-422-0848`<br><br>
-<a href="mailto:nastambaugh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-  #### Socials
-<div id="badges">
-   <a href="https://www.linkedin.com/in/nick-stambaugh-694241139/L">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@nick-stambaugh">
-  <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/nick4514">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  </a>
-  <br>
-</div>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NicholasStambaugh)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/mtahiraslan/](https://www.linkedin.com/in/nick-s-694241139/))
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com)
 
   ## About Me 
 ### Favorite Tech
