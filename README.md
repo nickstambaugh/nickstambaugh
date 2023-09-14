@@ -14,7 +14,11 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://nickstambaugh.com">
 <img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> 
 
-  ## About Me 
+  ## About Me
+  🌐 I am a `Business Intelligence Developer` primarily using `Qlik Sense`, `SQL`, `Salesforce`, `C#`, and `Jupyter/Python` 🌐<br> <br>
+  ✈️ I am familiar with concepts in `Web Development`, `Data Science`, and `Business Intelligence` ✈️ <br> <br>
+  ❄️ In the past, I have developed solutions using `Python`, `Tableau`, `PowerBI`, `React`, `Vue`, `R`, `JQuery` and `TypeScript` ❄️ <br> <br>
+  ✏️ I am currently learning `TypeScript`, `C#`, and `MongoDB`✏️
 ### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
