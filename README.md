@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
   ## About Me
   🌐 I am a `Business Intelligence Developer` primarily using `Qlik Sense`, `SQL`, `Salesforce`, `C#`, and `Jupyter/Python` <br> <br>
   ✈️ I am familiar with concepts in `Web Development`, `Data Science`, `Data Analytics`, and `Business Intelligence`  <br> <br>
-  ❄️ In the past, I have developed solutions using `Python`, `Tableau`, `PowerBI`, `React`, `MySQL`, `Vue`, `R`, `JQuery`, and `TypeScript`  <br> <br>
+  ❄️ In the past, I have developed solutions using `Python`, `Tableau`, `PowerBI`, `React`, `MySQL`, `Vue`, `D3.js`, `R`, `JQuery`, and `TypeScript`  <br> <br>
   ✏️ I am currently learning `TypeScript`, `C#`, and `MongoDB` 
 ### Favorite Tech
 <div>
