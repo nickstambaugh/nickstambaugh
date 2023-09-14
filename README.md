@@ -8,6 +8,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NicholasStambaugh)
+[![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@nick-stambaugh)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/mtahiraslan/](https://www.linkedin.com/in/nick-s-694241139/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com) <br> <br>
