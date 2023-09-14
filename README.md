@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
 <!-- Your title -->
-## Hi, I'm Nick Stambaugh, a Developer 🚀 from Michigan.
+## Hi, I'm <b> Nick Stambaugh<b>, a Developer 🚀 from Michigan.
   
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
