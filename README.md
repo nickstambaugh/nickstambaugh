@@ -2,7 +2,7 @@
   
 <!-- Your title -->
 ## Hi, I'm Nick Stambaugh, a Developer 🚀 from Michigan.
-
+  
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -10,7 +10,9 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NicholasStambaugh)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/mtahiraslan/](https://www.linkedin.com/in/nick-s-694241139/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com) <br> <br>
+<a href="https://nickstambaugh.com">
+<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> 
 
   ## About Me 
 ### Favorite Tech
@@ -36,10 +38,6 @@ You can use the website to generate badges: https://shields.io/
  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
-
-#### Hire Me
-<a href="https://nickstambaugh.com">
-<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> 
 
 #### Let's Game!
   <a href="https://steamcommunity.com/id/NickStamb/">
