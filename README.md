@@ -54,7 +54,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight&width=468&exclude_repo=SQL-Query-Notebook)](https://github.com/KasRoudra/github-stats-card)
 ## Working On Now
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=SQL-Query-Notebook&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=SalesforceReportsConnector&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
   
 ### ASCII Art
      _   _ _      _      ____  _                  _                       _     
