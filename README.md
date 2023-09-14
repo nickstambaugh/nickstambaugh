@@ -12,7 +12,10 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com) <br> <br>
 <a href="https://nickstambaugh.com">
-<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> 
+<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> <br> <br>
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=red&" alt=""/>
+  </a>
 
   ## About Me
   🌐 I am a `Business Intelligence Developer` primarily using `Qlik Sense`, `SQL`, `Salesforce`, `C#`, and `Jupyter/Python` 🌐<br> <br>
