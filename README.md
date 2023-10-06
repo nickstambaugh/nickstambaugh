@@ -20,9 +20,8 @@ You can use the website to generate badges: https://shields.io/
 
   ## About Me
   🌐 I am a `Business Intelligence Developer` at <a href='https://www.nationalnail.com'>National Nail<a> primarily using `Qlik Sense`, `SQL`, `Salesforce`, `C#`, and `Jupyter/Python` <br> <br>
-  ✈️ I am familiar with concepts in `Web Development`, `Data Science`, `Data Analytics`, and `Business Intelligence`  <br> <br>
-  ❄️ In the past, I have developed solutions using `Python`, `Tableau`, `PowerBI`, `React`, `MySQL`, `Vue`, `D3.js`, `R`, `JQuery`, and `TypeScript`. Many of my projects can be found <a href='https://github.com/NicholasStambaugh?tab=repositories'>here.<a>  <br> <br>
-  ✏️ I am currently learning `TypeScript`, `C#`, and `MongoDB` 
+  ❄️ I have developed solutions using `Python`, `Tableau`, `PowerBI`, `Qlik Enterprise`, `SSMS`, `React + Vite`, `MySQL`, `Vue`, `D3.js`, `Chart.js`, `R`, `JQuery`, and `TypeScript`. <br> <br>
+  🚀 For my backend projects, I tend to use `Express` and `Flask`. Many of my projects can be found <a href='https://github.com/NicholasStambaugh?tab=repositories'>here.<a>  <br> <br>
 ### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -40,20 +39,20 @@ You can use the website to generate badges: https://shields.io/
 </div>
 
 
- ### Favorite IDE
- <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>&nbsp;
+ ### Preferred IDE
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/PyCharm-013220.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>&nbsp;
 
 #### Let's Game!
   <a href="https://steamcommunity.com/id/NickStamb/">
-  <img src="https://img.shields.io/badge/Steam-002211?style=for-the-badge&logo=steam&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Steam-7393B3?style=for-the-badge&logo=steam&logoColor=white" alt="Tableau"/>
   </a> 
 
 #### Games I Love  
- <img src="https://img.shields.io/badge/Counter_Strike-010001?style=for-the-badge&logo=counter-strike&logoColor=white"/>
-<img src="https://img.shields.io/badge/FIFA-010001?style=for-the-badge&logo=fifa&logoColor=white"/>
-<img src="https://img.shields.io/badge/Call_Of_Duty-010001?style=for-the-badge&logo=activision&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Counter_Strike-7393B3?style=for-the-badge&logo=counter-strike&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIFA-7393B3?style=for-the-badge&logo=fifa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Call_Of_Duty-7393B3?style=for-the-badge&logo=activision&logoColor=white"/>
 
 ## Stats
 
