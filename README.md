@@ -21,7 +21,8 @@ You can use the website to generate badges: https://shields.io/
   ## About Me
   🌐 I am a `Business Intelligence Developer` at <a href='https://www.nationalnail.com'>National Nail<a> primarily using `Qlik Sense`, `SQL`, `Salesforce`, and `Jupyter/Python`. <br> <br>
   ❄️ I have developed solutions using `Python`, `Tableau`, `PowerBI`, `Qlik Enterprise`, `SSMS`, `React + Vite`, `MySQL`, `Vue`, `D3.js`, `Chart.js`, `R`, `JQuery`, and `TypeScript`. <br> <br>
-  🚀 For my backend projects, I tend to use `Express`, `node`, or `Flask`. I am trying to learn more `SQL` and `MongoDB`. Many of my projects can be found <a href='https://github.com/NicholasStambaugh?tab=repositories'>here.<a>  <br> <br>
+  🚀 For my backend projects, I tend to use `Express`, `node`, or `Flask`. I am trying to learn more `SQL` and `MongoDB`. Many of my projects can be found <a href='https://github.com/NicholasStambaugh?tab=repositories'>here.<a>
+  
 ### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -32,16 +33,10 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="50" height="50"/>&nbsp; 
 </div>
 
-
  ### Preferred IDE
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/PyCharm-013220.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>&nbsp;
-
-#### Let's Game!
-  <a href="https://steamcommunity.com/id/NickStamb/">
-  <img src="https://img.shields.io/badge/Steam-7393B3?style=for-the-badge&logo=steam&logoColor=white" alt="Tableau"/>
-  </a> 
 
 #### Games I Love  
  <img src="https://img.shields.io/badge/Counter_Strike-7393B3?style=for-the-badge&logo=counter-strike&logoColor=white"/>
@@ -52,19 +47,9 @@ You can use the website to generate badges: https://shields.io/
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats) <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=3&hide=jupyter%20notebook,CSS,HTML,scss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Working On Now
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=michigan-dev-jobboard&layout=compact&theme=tokyonight)](https://github.com/NicholasStambaugh/michigan-dev-jobboard) 
-  
-### ASCII Art
-     _   _ _      _      ____  _                  _                       _     
-    | \ | (_) ___| | __ / ___|| |_ __ _ _ __ ___ | |__   __ _ _   _  __ _| |__
-    |  \| | |/ __| |/ / \___ \| __/ _` | '_ ` _ \| '_ \ / _` | | | |/ _` | '_ \
-    | |\  | | (__|   <   ___) | || (_| | | | | | | |_) | (_| | |_| | (_| | | | |
-    |_| \_|_|\___|_|\_\ |____/ \__\__,_|_| |_| |_|_.__/ \__,_|\__,_|\__, |_| |_|
-                                                              |___/
-
-#### Generated Using
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=pyascii&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
 
