@@ -57,7 +57,7 @@ You can use the website to generate badges: https://shields.io/
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A)](https://git.io/streak-stats) <br><br>
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&minimum=0.06&theme=tokyonight&width=469&exclude_repo=SQL-Query-Notebook)](https://github.com/KasRoudra/github-stats-card)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=8&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Working On Now
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=michigan-dev-jobboard&layout=compact&theme=tokyonight)](https://github.com/NicholasStambaugh/michigan-dev-jobboard) 
