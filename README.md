@@ -60,7 +60,7 @@ You can use the website to generate badges: https://shields.io/
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=NicholasStambaugh&layout=compact&type=donut&theme=tokyonight&width=469&exclude_repo=SQL-Query-Notebook)](https://github.com/KasRoudra/github-stats-card)
 ## Working On Now
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=michigan-dev-jobboard&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=michigan-dev-jobboard&layout=compact&theme=tokyonight)](https://github.com/NicholasStambaugh/michigan-dev-jobboard) 
   
 ### ASCII Art
      _   _ _      _      ____  _                  _                       _     
