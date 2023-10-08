@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
   ## About Me
   🌐 I am a `Business Intelligence Developer` at <a href='https://www.nationalnail.com'>National Nail<a> primarily using `Qlik Sense`, `SQL`, `Salesforce`, and `Jupyter/Python`. <br> <br>
   ❄️ I have developed solutions using `Python`, `Tableau`, `PowerBI`, `Qlik Enterprise`, `SSMS`, `React + Vite`, `MySQL`, `Vue`, `D3.js`, `Chart.js`, `R`, `JQuery`, and `TypeScript`. <br> <br>
-  🚀 For my backend projects, I tend to use `Express`, `node`, or `Flask`. Many of my projects can be found <a href='https://github.com/NicholasStambaugh?tab=repositories'>here.<a>  <br> <br>
+  🚀 For my backend projects, I tend to use `Express`, `node`, or `Flask`. I am trying to learn more `SQL` and `MongoDB`. Many of my projects can be found <a href='https://github.com/NicholasStambaugh?tab=repositories'>here.<a>  <br> <br>
 ### Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
