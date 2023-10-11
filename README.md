@@ -15,7 +15,9 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://nickstambaugh.com">
 <img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> <br> <br>
   <a>
+  <div>
   <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=red" alt=""/>
+  </div>
   </a>
 
   ## About Me
