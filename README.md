@@ -13,13 +13,14 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com) <br> <br>
 <a href="https://nickstambaugh.com">
-<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> <br> <br>
+<img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/> 
+  <!--
   <a>
   <div>
   <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=red" alt=""/>
   </div>
   </a>
-
+-->
   ## About Me
   🌐 I am a `Business Intelligence Developer` at <a href='https://www.nationalnail.com'>National Nail<a> primarily using `Qlik Sense`, `SQL`, `Salesforce`, and `Jupyter/Python`. <br> <br>
   ❄️ I have developed solutions using `Python`, `Tableau`, `PowerBI`, `Qlik Enterprise`, `SSMS`, `React + Vite`, `MySQL`, `Vue`, `D3.js`, `Chart.js`, `R`, `JQuery`, and `TypeScript`. <br> <br>
