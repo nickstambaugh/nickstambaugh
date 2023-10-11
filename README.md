@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
   </a>
 -->
   ## About Me
-  I am a `Business Intelligence Developer` at <a href='https://www.nationalnail.com'>National Nail<a> primarily using `Qlik Sense`, `SQL`, `TypeScript/React`, and `Jupyter/Python`. <br> <br>
+  I am a `Business Intelligence Developer` at <a href='https://www.nationalnail.com'>National Nail<a> primarily using `Qlik Sense`, `SQL Server`, `TypeScript/React`, and `Jupyter Notebook`. <br> <br>
   
 ## Favorite Tech
 <div>
