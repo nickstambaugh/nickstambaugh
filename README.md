@@ -37,6 +37,7 @@ You can use the website to generate badges: https://shields.io/
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/PyCharm-013220.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/Cursor-ffffff?style=for-the-badge&logo=Cursor&logoColor=white"/>&nbsp;
 
 #### Games I Love  
  <img src="https://img.shields.io/badge/Counter_Strike-7393B3?style=for-the-badge&logo=counter-strike&logoColor=white"/>
