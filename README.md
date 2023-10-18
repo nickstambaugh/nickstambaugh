@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
 <!-- Your title -->
-# Hi, I'm <b> Nick Stambaugh<b> 🚀
+# Hi, I'm <b> Nick Stambaugh!<b> 🚀
   
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
