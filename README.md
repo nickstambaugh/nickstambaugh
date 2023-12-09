@@ -8,8 +8,8 @@ nickstambaugh.com
 ![](https://komarev.com/ghpvc/?username=NicholasStambaugh&color=yellowgreen)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A&height=400px)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&exclude_days=Sun%2CFri%2CSat&fire=1EEB1A&height=400px)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=7&hide=jupyter%20notebook,ruby,CSS,TSQL,HTML,vue,scss,go,php&theme=tokyonight&custom_title=My%20Top%207%20Langs%20&height=25)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=7&hide=jupyter%20notebook,ruby,CSS,TSQL,HTML,vue,scss,go,php&theme=tokyonight&custom_title=My%20Top%207%20Langs%20&height=25)
 
 
