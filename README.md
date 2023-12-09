@@ -39,6 +39,6 @@ You can use the website to generate badges: https://shields.io/
 
 ## Working On Now
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=michigan-dev-jobboard&layout=compact&theme=tokyonight)](https://github.com/NicholasStambaugh/michigan-dev-jobboard) 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=NicholasStambaugh&repo=RMS&layout=compact&theme=tokyonight)](https://github.com/NicholasStambaugh/michigan-dev-jobboard) 
 
 
