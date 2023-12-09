@@ -1,4 +1,4 @@
-nickstambaugh.com
+## nickstambaugh.com
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NicholasStambaugh)
 [![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@nick-stambaugh)
