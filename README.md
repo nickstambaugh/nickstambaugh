@@ -10,6 +10,6 @@
 
 ![](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&fire=1EEB1A&height=400px)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=10&hide=jupyter%20notebook,ruby,SAS,CSS,TSQL,HTML,vue,go,php&theme=tokyonight&custom_title=My%20Top%209%20Langs%20&height=25)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=10&hide=jupyter%20notebook,ruby,SAS,CSS,TSQL,HTML,vue,go,powershell,SCSS,php&theme=tokyonight&custom_title=My%20Top%207%20Langs%20&height=25)
 
 
