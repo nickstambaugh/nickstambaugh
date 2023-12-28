@@ -1,4 +1,4 @@
-## nickstambaugh.com
+# nickstambaugh.com
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NicholasStambaugh)
 [![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@nick-stambaugh)
@@ -12,6 +12,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=10&hide=jupyter%20notebook,ruby,SAS,CSS,TSQL,HTML,vue,go,powershell,SCSS,php&theme=tokyonight)
 
-### Working on Now:
+### Working On Now:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nicholasstambaugh&repo=rusty-twinkle-tray&theme=tokyonight&custom_title=My%20Top%207%20Langs%20&height=25)](https://github.com/NicholasStambaugh/rusty-twinkle-tray)
