@@ -13,6 +13,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=10&hide=jupyter%20notebook,ruby,SAS,CSS,TSQL,HTML,php&theme=tokyonight)
 
-### Working On Now:
+### Working On Now
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nicholasstambaugh&repo=rusty-twinkle-tray&theme=tokyonight&custom_title=My%20Top%207%20Langs%20&height=25)](https://github.com/NicholasStambaugh/rusty-twinkle-tray)
