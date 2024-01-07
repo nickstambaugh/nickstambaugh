@@ -1,4 +1,3 @@
-### Contact
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NicholasStambaugh)
 [![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@nick-stambaugh)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
