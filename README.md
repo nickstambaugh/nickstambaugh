@@ -8,7 +8,7 @@
 ### Github Stats
 ![](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&fire=1EEB1A&height=400px)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&langs_count=12&hide=jupyter%20notebook,SAS,CSS,TSQL,HTML,php&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&langs_count=18&theme=tokyonight)
 
 ### Working On Now
 
