@@ -7,4 +7,4 @@
 
 ![](https://streak-stats.demolab.com?user=NicholasStambaugh&theme=tokyonight&border_radius=2.5&fire=1EEB1A&height=400px)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&langs_count=17&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&langs_count=19&theme=tokyonight)
