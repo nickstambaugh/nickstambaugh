@@ -4,4 +4,4 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com) 
 ![](https://komarev.com/ghpvc/?username=NicholasStambaugh&color=blue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&langs_count=21&theme=tokyonight&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=pie&langs_count=21&theme=tokyonight&hide_progress=false)
