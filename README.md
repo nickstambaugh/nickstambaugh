@@ -11,4 +11,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,r,tailwindcss)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,mysql,markdown)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,vscode,git,electron)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vite,html,js)](https://skillicons.dev)
+
 ### nickstambaugh.com
