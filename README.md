@@ -8,3 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=pie&langs_count=21&theme=tokyonight&hide_progress=false)
 
 ### nickstambaugh.com
+
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,cpp,python)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,r,tailwindcss)](https://skillicons.dev)
