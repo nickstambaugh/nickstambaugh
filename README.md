@@ -7,11 +7,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=pie&langs_count=24&theme=tokyonight&hide_progress=false)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,rust,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,c,python)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,r,tailwindcss)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,mysql,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,mysql,cpp)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,vscode,git,electron)](https://skillicons.dev)
 
