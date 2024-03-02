@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=NicholasStambaugh&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&color=grey" alt="Profile Views Counter">
 
 [![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@nick-stambaugh)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nick-s-694241139/)
