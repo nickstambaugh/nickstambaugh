@@ -28,3 +28,6 @@ I study computer science, Linux, C/C++, Rust, TypeScript, and Python at night.
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
 
 <a href="https://www.mitalent360.com/">mitalent360.com</a>
+
+
+![](https://github.com/NicholasStambaugh/giphy.gif)
