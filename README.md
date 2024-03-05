@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&langs_count=9&theme=tokyonight&hide_progress=false&hide=html,css,vue,powershell)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&theme=tokyonight&hide_progress=false&hide=html,css,vue,powershell)
 
 ## About me
 A dysfunctional programmer who jumps between ideas, languages, and projects frequently.
