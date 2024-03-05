@@ -7,16 +7,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&langs_count=8&theme=tokyonight&hide_progress=false&hide=html,css,vue)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,c,cpp)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react,vue,r,tailwindcss)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,mysql,linux)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,vscode,vite,electron)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=rust,git,html,js)](https://skillicons.dev)
-
 ## About me
 A dysfunctional programmer who jumps between ideas, languages, and projects frequently.
 
