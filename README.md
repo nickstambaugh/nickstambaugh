@@ -10,7 +10,7 @@
 ## About me
 A dysfunctional programmer who jumps between ideas, languages, and projects frequently.
 
-I study computer science, C/C++, Rust, TypeScript, and Python at night. I am focusing on system programming right now.
+I study computer science, C/C++, Rust, TypeScript, and Python at night.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
