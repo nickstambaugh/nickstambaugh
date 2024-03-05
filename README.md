@@ -12,9 +12,11 @@ A dysfunctional programmer who jumps between ideas, languages, and projects freq
 
 During the day I work in business intelligence.
 
-I study computer science, Linux, C/C++, Rust, TypeScript, and Python at night.
+I study computer science, C/C++, Rust, TypeScript, and Python at night. I am focusing on system programming right now.
 
-You may or may not find something useful on here, but I write a lot of code so have fun and feel free to pull request.
+I enjoy building websites and user interfaces.
+
+You may or may not find something useful on here, but I write a lot of code so have fun and feel free to submit pull requests.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
