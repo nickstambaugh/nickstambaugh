@@ -30,4 +30,5 @@ I study computer science, Linux, C/C++, Rust, TypeScript, and Python at night.
 <a href="https://www.mitalent360.com/">mitalent360.com</a>
 
 
-![](https://github.com/NicholasStambaugh/giphy.gif)
+
+![](https://github.com/NicholasStambaugh/NicholasStambaugh/blob/main/giphy.gif)
