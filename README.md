@@ -16,6 +16,8 @@ I study computer science, Linux, C/C++, Rust, TypeScript, and Python at night.
 
 You may or may not find something useful on here, but I write a lot of code so have fun and feel free to pull request.
 
+I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
+
 ## Projects
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
 
