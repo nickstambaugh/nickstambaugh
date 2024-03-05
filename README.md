@@ -22,3 +22,5 @@ a dysfunctional programmer who jumps between ideas, languages, and projects freq
 
 ## Projects
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
+
+<a href="https://www.mitalent360.com/">mitalent360.com</a>
