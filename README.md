@@ -17,7 +17,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=rust,git,html,js)](https://skillicons.dev)
 
-### nickstambaugh.com
-
 ## About me
 a dysfunctional programmer who jumps between ideas, languages, and projects frequently. 
+
+## Projects
+<a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
