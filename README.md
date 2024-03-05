@@ -18,7 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,git,html,js)](https://skillicons.dev)
 
 ## About me
-a dysfunctional programmer who jumps between ideas, languages, and projects frequently. 
+A dysfunctional programmer who jumps between ideas, languages, and projects frequently.
+
+During the day I work in business intelligence.
+
+I study computer science, Linux, C/C++, Rust, TypeScript, and Python at night.
 
 ## Projects
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
