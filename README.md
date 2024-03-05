@@ -30,7 +30,3 @@ You may or may not find something useful on here, but I write a lot of code so h
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
 
 <a href="https://www.mitalent360.com/">mitalent360.com</a>
-
-
-
-![](https://github.com/NicholasStambaugh/NicholasStambaugh/blob/main/giphy.gif)
