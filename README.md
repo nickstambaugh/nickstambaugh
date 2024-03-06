@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasStambaugh&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false&hide=html,css,vue,powershell)
 
 ## About me
-A dysfunctional programmer who jumps between ideas, languages, and projects frequently.
+A dysfunctional programmer & introvert who jumps between ideas, languages, and projects frequently.
 
 I study computer science, philosophy, economics, C/C++, Rust, TypeScript, and Python.
 
