@@ -1,4 +1,4 @@
-<I>"For I was conscious that I knew practically nothing..."<I>
+<I>"For I was conscious that I knew practically nothing..."</i>
 
 <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&color=grey" alt="Profile Views Counter"><br>
 
