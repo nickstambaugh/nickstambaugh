@@ -10,7 +10,7 @@
 ## About me
 A dysfunctional programmer who jumps between ideas, languages, and projects frequently.
 
-I study computer science, C/C++, Rust, TypeScript, and Python.
+I study computer science, philosophy, economics, C/C++, Rust, TypeScript, and Python.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
