@@ -12,7 +12,9 @@
 ## About me
 A dysfunctional programmer, gamer, & introvert who jumps between ideas, languages, and projects frequently.
 
-I study computer science, philosophy, economics, C/C++, Rust, TypeScript, and Python.
+I study computer science, philosophy, economics in my free time.
+
+I love to program in C, Rust, TypeScript, and Python.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
