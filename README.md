@@ -10,9 +10,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false&hide=html,css,vue,powershell)
 
 ## About me
-A dysfunctional programmer, gamer, musician, writer,  & introvert who jumps between ideas, languages, and projects frequently.
+A dysfunctional programmer, gamer, <a href="https://soundcloud.com/nella007">music producer</a>, <a href="https://medium.com/@nick-stambaugh">writer</a>,  & introvert who jumps between ideas, languages, and projects frequently.
 
-I obtained a bachelor's degree in economics and philosophy in 2022. I continue studying computer science, philosophy, and American economics in my free time.
+I obtained a bachelor's degree in economics and philosophy in 2022. I continue studying computer science, philosophy, and <a href="https://en.wikipedia.org/wiki/Economy_of_the_United_States">the American economy</a> in my free time.
 
 I love to program in C, Rust, TypeScript, and Python.
 
