@@ -18,7 +18,13 @@ I love to program in C, Rust, TypeScript, and Python.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
-## Projects
+## I am currently working on... 
+[Quick Charts](https://github.com/nickstambaugh/quick-charts)
+
+## Professional Web Projects...
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
 
 <a href="https://www.mitalent360.com/">mitalent360.com</a>
+
+## Contributed to...
+[Twinkle Tray in Rust](https://github.com/sidit77/rusty-twinkle-tray)
