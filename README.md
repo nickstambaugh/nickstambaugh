@@ -1,4 +1,4 @@
-<I>"For I was conscious that I knew practically nothing..."</i>
+<I>"For I was conscious that I knew practically nothing..."</I>
 
 <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&color=grey" alt="Profile Views Counter"><br>
 
@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false&hide=html,css,vue,powershell)
 
 ## About me
-A dysfunctional programmer, gamer, & introvert who jumps between ideas, languages, and projects frequently.
+A dysfunctional programmer, gamer, musician, writer,  & introvert who jumps between ideas, languages, and projects frequently.
 
 I study computer science, philosophy, and economics in my free time.
 
