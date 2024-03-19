@@ -12,7 +12,7 @@
 ## About me
 A dysfunctional programmer, gamer, musician, writer,  & introvert who jumps between ideas, languages, and projects frequently.
 
-I study computer science, philosophy, and economics in my free time.
+I study computer science, philosophy, and economics in my free time. I obtained a bachelor's degree in economics and philosophy in 2022.
 
 I love to program in C, Rust, TypeScript, and Python.
 
