@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nastambaugh@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:nastambaugh@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=11&hide_progress=false&hide=html,css,vue)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=15&hide_progress=false)
 
 ## About me
 A dysfunctional programmer, gamer, <a href="https://soundcloud.com/nella007">music producer</a>, <a href="https://medium.com/@nick-stambaugh">writer</a>, forced windows user, & introvert who jumps between ideas, languages, and projects frequently.
