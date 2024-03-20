@@ -33,3 +33,5 @@ I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
 ## Academic
 [Digestable write-up of nuclear economics reseearch](https://medium.com/@nick-stambaugh/solving-climate-change-one-step-at-a-time-the-nuclear-solution-74259a669f06)
+
+[West Michigan Construction Development Analysis](https://rightplace.nyc3.cdn.digitaloceanspaces.com/production/uploads/downloads/public-resources/RPI-Development-Report-2023-FINAL-Web.pdf)
