@@ -39,3 +39,5 @@ I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 [West Michigan Construction Development Analysis](https://rightplace.nyc3.cdn.digitaloceanspaces.com/production/uploads/downloads/public-resources/RPI-Development-Report-2023-FINAL-Web.pdf)
 
 [West Michigan Economic Overview & Analysis](https://rightplace.nyc3.cdn.digitaloceanspaces.com/production/uploads/downloads/public-resources/State-of-the-Region-2022_FINAL.pdf)
+
+Database of 
