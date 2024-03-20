@@ -18,6 +18,8 @@ I love to program in C, Rust, TypeScript, and Python.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
+[Download my CV](https://nickstambaugh.com/assets/resume.pdf)
+
 ## I am currently working on... 
 [Quick Charts](https://github.com/nickstambaugh/quick-charts)
 
