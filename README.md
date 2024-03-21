@@ -44,3 +44,6 @@ I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 [Targeted EV Battery Production Research](https://public.tableau.com/app/profile/nick4514/viz/TargetedBatteryResearch/Story1)
 
 [Maps to Guide the Allocation of Childcare Grant Funding](https://public.tableau.com/app/profile/nick4514/viz/TargetedChildcareGrantMapping/Story1)
+
+### "For the deep divers of the internet..."
+<a href="https://www.nickstambaugh.com/archives.html">archival content</a>
