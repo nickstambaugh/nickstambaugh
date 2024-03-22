@@ -8,6 +8,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=15&hide_progress=false)
 
+![](https://github.com/nickstambaugh/nickstambaugh/blob/main/gary.gif)
+
 ## About me
 I am currently developing data analytics and backend solutions for [National Nail](https://www.nationalnail.com/).
 
@@ -50,5 +52,4 @@ I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 ### "For the deep divers of the internet..."
 <a href="https://www.nickstambaugh.com/archives.html">archival content</a>
 
-![](https://github.com/nickstambaugh/nickstambaugh/blob/main/gary.gif)
 ![](https://github.com/nickstambaugh/nickstambaugh/blob/main/footer.svg)
