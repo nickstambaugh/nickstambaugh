@@ -51,5 +51,4 @@ I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 <a href="https://www.nickstambaugh.com/archives.html">archival content</a>
 
 ![](https://github.com/nickstambaugh/nickstambaugh/blob/main/gary.gif)
-
 ![](https://github.com/nickstambaugh/nickstambaugh/blob/main/footer.svg)
