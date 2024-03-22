@@ -8,8 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=15&hide_progress=false)
 
-![](https://github.com/nickstambaugh/nickstambaugh/blob/main/gary.gif)
-
 ## About me
 I am currently developing data analytics and backend solutions for [National Nail](https://www.nationalnail.com/).
 
@@ -22,6 +20,8 @@ I love to program in C, Rust, TypeScript, and Python.
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
 [Download my CV](https://nickstambaugh.com/assets/resume.pdf)--It is kind of old though!
+
+![](https://github.com/nickstambaugh/nickstambaugh/blob/main/gary.gif)
 
 ## I am currently working on... 
 [Quick Charts](https://github.com/nickstambaugh/quick-charts)
