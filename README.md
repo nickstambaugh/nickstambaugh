@@ -24,7 +24,7 @@ I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 ![](https://github.com/nickstambaugh/nickstambaugh/blob/main/gary.gif)
 
 ## I am currently working on... 
-[Quick Charts](https://github.com/nickstambaugh/quick-charts)
+[my go web server](https://github.com/nickstambaugh/go-server)
 
 ## Professional Web Projects...
 <a href="https://www.nickstambaugh.com/">nickstambaugh.com</a>
