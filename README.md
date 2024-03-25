@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickStambaugh&layout=compact&theme=tokyonight&langs_count=14&hide_progress=false&hide=css)
 
 ## About me
-I am currently developing data analytics and backend solutions for [National Nail](https://www.nationalnail.com/).
+I am developing data analytics and backend solutions full-time in Grand Rapids, Michigan.
 
 I am a dysfunctional programmer, [gamer](https://steamcommunity.com/id/NickStamb/), <a href="https://soundcloud.com/nella007">music producer</a>, <a href="https://medium.com/@nick-stambaugh">writer</a>, forced Windows user, & introvert who jumps between ideas, languages, and projects frequently.
 
