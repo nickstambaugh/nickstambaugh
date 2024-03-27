@@ -15,7 +15,7 @@ I am a dysfunctional programmer, [gamer](https://steamcommunity.com/id/NickStamb
 
 I obtained a [bachelor's degree in economics](https://www.gvsu.edu/economics/) and philosophy in 2022. I continue studying computer science, philosophy, and <a href="https://en.wikipedia.org/wiki/Economy_of_the_United_States">the American economy</a> in my free time.
 
-I love to program in C, Rust, Go, TypeScript, and Python.
+I love to program in Rust, Go, TypeScript, and Python.
 
 I write sometimes on <a href="https://medium.com/@nick-stambaugh">medium.</a>
 
